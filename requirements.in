@@ -1,0 +1,7 @@
+mkdocs
+pymdown-extensions
+Pygments
+mkdocs-plugin-inline-svg-mod
+mkdocs-puml-mod
+mkdocs-material
+mkdocs-rss-plugin

@@ -1,0 +1,73 @@
+site_name: Digital Fortress
+docs_dir: docs
+site_dir: build
+markdown_extensions:
+  - attr_list
+  - tables
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.snippets
+  - pymdownx.superfences:          #pymdown-extensions installed
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+        - name: puml
+          class: puml
+          format: !!python/name:mkdocs_puml_mod.fence.fence_puml
+  - pymdownx.highlight
+  - pymdownx.emoji:                #for using icons
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - header.autohide
+  palette:
+    scheme: 'slate'
+    primary: 'black'
+  font:
+    text: 'Roboto Mono'
+    code: 'Roboto Mono'
+  logo: 'img/logo.png'
+  favicon: 'img/logo.png'
+copyright: '&copy; 2024 Saurabh Rajguru'
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/rajguru7
+      name: GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/saurabh-rajguru-777777777777777777
+      name: LinkedIn
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/rajguruVII
+      name: Twitter
+extra_css:
+  - css/excali.css         #Refer productivity/main.md#feature-5
+  - css/extra.css
+extra_javascript:
+  - js/mathjax_config.js
+  - js/mathjax@3.2.2/es5/tex-mml-chtml.js
+  - js/polyfill.min.js    #For mathjax support for browsers. Not required for chrome
+plugins:
+  - blog
+  - tags:
+      tags_file: tags.md
+  - rss:
+      match_path: blog/posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags
+  - search                #default plugin
+  - inline-svg:
+      extension: ".excalidraw.svg"
+      delete: "(?s)<!-- svg-source:excalidraw -->.*<!-- payload-end -->|<defs>.*</defs>|\n"
+  - plantuml:             #For rendering puml code blocks
+      puml_url: https://www.plantuml.com/plantuml/
