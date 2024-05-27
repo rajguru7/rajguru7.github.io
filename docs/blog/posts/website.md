@@ -2,10 +2,10 @@
 draft: true 
 date: 2024-05-26
 categories:
-  - guides
+  - projects
 tags:
-  - website
   - mkdocs
+  - cms
 ---
 
-
+# Creating digitalfortress.me

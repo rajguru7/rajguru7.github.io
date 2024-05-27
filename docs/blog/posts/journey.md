@@ -1,15 +1,17 @@
 ---
 date: 2024-05-26
 categories:
-  - experience
-tags:
   - journey
+tags:
+  - IIT
+  - decisions
 ---
 
-# Journey
+# Chemical Engineer to Cybersecurity
 
 My first practical experience with programming was in senior year of high school
 when I created a set of games using NetBeans JAVA Spring framework. I cleared
+<!-- stop -->
 the Joint Entrance Examination with merit which allowed me to enroll in the
 Indian Institute of Technology shortlisting process. IIT Bombay being the cream
 on top of IITs and it being a three-hour drive from my home was one of the best
