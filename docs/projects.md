@@ -1,5 +1,8 @@
 # Projects
 
+## domain-catcher
+
+
 ## mkdocs-plugin-inline-svg-mod
 
 A MkDocs plugin that allows you to embed SVG files directly into your Markdown content.
@@ -11,8 +14,12 @@ A MkDocs plugin that allows you to embed SVG files directly into your Markdown c
 
 ## sys-set-up
 
-A collection of scripts to set up my system from scratch.
+Automated and configurable setup of my system from scratch.
 
 ## mkdocs-puml-mod
 
+use plantuml diagrams when superfences is being used
 
+## telegram-monitor
+
+Reads the F1 Visa Slot group on telegram and alerts if Visa is available
