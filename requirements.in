@@ -5,3 +5,4 @@ mkdocs-plugin-inline-svg-mod
 mkdocs-puml-mod
 mkdocs-material
 mkdocs-rss-plugin
+mkdocs-git-revision-date-localized-plugin
