@@ -85,6 +85,7 @@ plugins:
       categories:
         - categories
         # - tags
+      abstract_delimiter: <!-- stop -->
   - search                #default plugin
   - inline-svg:
       extension: ".excalidraw.svg"
