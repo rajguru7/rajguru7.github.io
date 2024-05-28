@@ -1,5 +1,5 @@
 ---
-date: 2024-05-28
+date: 2024-05-27
 categories:
   - projects
 tags:
@@ -7,18 +7,17 @@ tags:
   - cms
 ---
 
-# Creating [digitalfortress.me](https://digitalfortress.me)
+# Creating digitalfortress.me
 
 Creating a website has always been on my TODO list but I never got around to
-doing it. I was surfing the internet when I landed on <https://0ut3r.space/>.
-<!-- stop --> I was immediately impressed by the design and simplicity of the
-website. Also, the content was more to my liking. I bookmarked the website and
-carried on with my life (procrastinating as usual). Around this time, there no
-new internship opportunities being offered and I knew that a personal website
-would come in handy when applying for jobs next year at the end of my masters.
-So, finally after playing a lot of league of legends and watching a lot of anime
-at the start of the break, I decided to finally get around to creating my
-website.
+doing it. I was surfing the internet when I landed on <https://0ut3r.space/>. <!-- stop -->
+I was immediately impressed by the design and simplicity of the website. Also,
+the content was more to my liking. I bookmarked the website and carried on with
+my life (procrastinating as usual). Around this time, there no new internship
+opportunities being offered and I knew that a personal website would come in
+handy when applying for jobs next year at the end of my masters. So, finally
+after playing a lot of league of legends and watching a lot of anime at the
+start of the break, I decided to finally get around to creating my website.
 
 
 ## Choosing a static site generator
@@ -76,4 +75,4 @@ fortress and the red sea attack.
 
 Creating this website was a fun experience and I am happy with the result. For
 more technical details check out my notes on the website creation process
-[here](). Thanks for reading!
+[here](https://github.com/rajguru7/notes/blob/main/docs/productivity/website.md). Thanks for reading!
