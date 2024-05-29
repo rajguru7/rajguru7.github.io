@@ -13,7 +13,7 @@ I am currently studying Cybersecurity at NYU. I have a background in various
 fields. I did my bachelor's in Chemical Engineering from IIT Bombay and worked
 as a Technology Manager in a bank where I was responsible for the development
 and deployment of a major remittance application. You can read more about my
-journey [here](). Apart from technical aspects I am into calisthenics and
+journey [here](blog/posts/journey.md). Apart from technical aspects I am into calisthenics and
 playing guitar.
 
 What you'll find here?
