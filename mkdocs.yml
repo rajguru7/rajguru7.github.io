@@ -44,6 +44,7 @@ nav:
   - Projects: projects.md
   - Blog:
     - blog/index.md
+  - Badges: badges.md
   - Tags: tags.md
   - Hobbies: hobbies.md
   # - RSS: rss
