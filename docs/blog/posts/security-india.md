@@ -3,8 +3,8 @@ date: 2024-08-14
 categories:
   - social
 tags:
+  - physical security
   - india
-  - physical safety
 ---
 
 # Thinking of safety in India
@@ -15,11 +15,11 @@ disclosure, I have never looked into civil matters before.
 
 ## Some things to note
 
-There will always be threat actors in the system.
-No security system is perfect.
-Try to think collectively.
-Always go down to first principles.
-Keep it simple.
+* There will always be threat actors in the system.
+* No security system is perfect.
+* Try to think collectively.
+* Always go down to first principles.
+* Keep it simple.
 
 ## Recent Problems:
 
