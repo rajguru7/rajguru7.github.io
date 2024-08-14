@@ -23,19 +23,19 @@ Keep it simple.
 
 ## Recent Problems:
 
-1. Illegal recording
+1. Illegal recording \\
     <https://www.thehindu.com/news/cities/bangalore/bengalurus-third-wave-coffee-employee-arrested-for-placing-camera-in-washroom/article68512349.ece>
-1. Rape
+1. Rape \\
     <https://x.com/BDUTT/status/1823020031493509520>
 
 ## What we need:
 
 1.  Transparency
-    Surveillance & transparent law enforcement
+    > Surveillance & transparent law enforcement
 1.  Awareness
-    Educate - so people do better things in life
+    > Educate - so people do better things in life
 1.  Liability
-    Have strict laws so that people are afraid of breaking them. Enforcement of
+    > Have strict laws so that people are afraid of breaking them. Enforcement of
     the laws is also important.
 
 ## Illegal Recording
