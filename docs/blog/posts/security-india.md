@@ -11,7 +11,7 @@ tags:
 
 Please note that I am not a law student or a lawyer. Due to the recent events in
 India I decided to start thinking about the safety of people in India. Full
-disclosure, I have never looked into civil matters before.
+disclosure, I have never looked into civil matters before. <!-- stop -->
 
 ## Some things to note
 
