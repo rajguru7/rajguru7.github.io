@@ -23,9 +23,9 @@ disclosure, I have never looked into civil matters before.
 
 ## Recent Problems:
 
-1. Illegal recording \
+1. Illegal recording //
     <https://www.thehindu.com/news/cities/bangalore/bengalurus-third-wave-coffee-employee-arrested-for-placing-camera-in-washroom/article68512349.ece>
-1. Rape \
+1. Rape //
     <https://x.com/BDUTT/status/1823020031493509520>
 
 ## What we need:
