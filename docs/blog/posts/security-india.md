@@ -33,13 +33,16 @@ disclosure, I have never looked into civil matters before.
 1.  Transparency
 
     > Surveillance & transparent law enforcement
+
 1.  Awareness
 
     > Educate - so people do better things in life
+
 1.  Liability
 
     > Have strict laws so that people are afraid of breaking them. Enforcement of
     the laws is also important.
+
 
 ## Illegal Recording
 
