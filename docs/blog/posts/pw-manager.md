@@ -18,7 +18,7 @@ With the increasing number of online accounts, it is becoming difficult to
 remember all the passwords. This has led to people using the same password
 across multiple accounts which is a security risk. Password managers help in
 generating and storing complex passwords for each account. They also help in
-autofilling the passwords when required.
+autofilling the passwords when required.<!-- stop -->
 
 Since most of us are not concerned about security let me tell you about the
 convenience of using a password manager. You can use the same password manager
