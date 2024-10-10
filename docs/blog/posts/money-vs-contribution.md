@@ -5,6 +5,7 @@ categories:
 tags:
   - figuring out
   - just thinking
+comments: true
 ---
 
 # Figuring out what to do - Part 0

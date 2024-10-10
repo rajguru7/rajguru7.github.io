@@ -5,6 +5,7 @@ categories:
 tags:
   - mkdocs
   - cms
+comments: true
 ---
 
 # Creating digitalfortress.me

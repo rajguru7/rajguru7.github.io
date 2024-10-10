@@ -5,6 +5,7 @@ categories:
 tags:
   - IIT
   - decisions
+comments: true
 ---
 
 # Chemical Engineer to Cybersecurity

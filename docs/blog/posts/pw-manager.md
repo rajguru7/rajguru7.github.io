@@ -7,6 +7,7 @@ tags:
   - security
   - password-manager
   - convenience
+comments: true
 ---
 
 # Why you should use a password manager

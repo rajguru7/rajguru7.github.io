@@ -5,6 +5,7 @@ categories:
 tags:
   - physical security
   - india
+comments: true
 ---
 
 # Thinking of safety in India
