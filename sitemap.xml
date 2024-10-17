@@ -2,82 +2,92 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://digitalfortress.me/</loc>
-         <lastmod>2024-10-10</lastmod>
+         <lastmod>2024-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://digitalfortress.me/badges/</loc>
-         <lastmod>2024-10-10</lastmod>
+         <lastmod>2024-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://digitalfortress.me/hobbies/</loc>
-         <lastmod>2024-10-10</lastmod>
+         <lastmod>2024-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://digitalfortress.me/projects/</loc>
-         <lastmod>2024-10-10</lastmod>
+         <lastmod>2024-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://digitalfortress.me/blog/</loc>
-         <lastmod>2024-10-10</lastmod>
+         <lastmod>2024-10-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://digitalfortress.me/blog/2024/10/15/exploit-education-stack-five/</loc>
+         <lastmod>2024-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://digitalfortress.me/blog/2024/05/27/chemical-engineer-to-cybersecurity/</loc>
-         <lastmod>2024-10-10</lastmod>
+         <lastmod>2024-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://digitalfortress.me/blog/2024/08/16/figuring-out-what-to-do---part-0/</loc>
-         <lastmod>2024-10-10</lastmod>
+         <lastmod>2024-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://digitalfortress.me/blog/2024/07/05/why-you-should-use-a-password-manager/</loc>
-         <lastmod>2024-10-10</lastmod>
+         <lastmod>2024-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://digitalfortress.me/blog/2024/08/14/thinking-of-safety-in-india/</loc>
-         <lastmod>2024-10-10</lastmod>
+         <lastmod>2024-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://digitalfortress.me/blog/2024/05/27/creating-digitalfortressme/</loc>
-         <lastmod>2024-10-10</lastmod>
+         <lastmod>2024-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://digitalfortress.me/blog/archive/2024/</loc>
-         <lastmod>2024-10-10</lastmod>
+         <lastmod>2024-10-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://digitalfortress.me/blog/category/ctf/</loc>
+         <lastmod>2024-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://digitalfortress.me/blog/category/life/</loc>
-         <lastmod>2024-10-10</lastmod>
+         <lastmod>2024-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://digitalfortress.me/blog/category/social/</loc>
-         <lastmod>2024-10-10</lastmod>
+         <lastmod>2024-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://digitalfortress.me/blog/category/projects/</loc>
-         <lastmod>2024-10-10</lastmod>
+         <lastmod>2024-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://digitalfortress.me/blog/category/journey/</loc>
-         <lastmod>2024-10-10</lastmod>
+         <lastmod>2024-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://digitalfortress.me/tags/</loc>
-         <lastmod>2024-10-10</lastmod>
+         <lastmod>2024-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
