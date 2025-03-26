@@ -26,7 +26,7 @@ wish.
 Where else can you find me?
 
 [:fontawesome-brands-github:{ .github }](https://github.com/rajguru7 "Github")
-[:fontawesome-brands-linkedin:{ .linkedin }](https://www.linkedin.com/in/saurabh-rajguru-777777777777777777 "LinkedIn")
+[:fontawesome-brands-linkedin:{ .linkedin }](https://www.linkedin.com/in/saurabh-rajguru "LinkedIn")
 [:fontawesome-brands-x-twitter:{ .x-twitter }](https://x.com/rajguruVII "Twitter")
 [:fontawesome-brands-youtube:{ .youtube }](https://www.youtube.com/@homeacademy2790 "Youtube")
 [:fontawesome-brands-twitch:{ .twitch }](https://www.twitch.tv/blue0red7 "Twitch")
