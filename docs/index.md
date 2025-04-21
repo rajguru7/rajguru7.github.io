@@ -19,9 +19,7 @@ playing guitar.
 What you'll find here?
 
 A collection of my thoughts, projects, and experiences. The content will be
-mostly geared towards cybersecurity, technology, and personal development. I
-will try adding a comment system soon so that you can share your thoughts if you
-wish.
+mostly geared towards cybersecurity, technology, and personal development.
 
 Where else can you find me?
 
